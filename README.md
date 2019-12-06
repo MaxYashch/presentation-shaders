@@ -1,4 +1,4 @@
-# presentation CSS shaders
+# [presentation CSS shaders](https://MaxYashch.github.io/presentation-shaders/)
 Hi everybody!
 I am **Max Yashchikovskiy**. 
 Let me introduce Y a short review of CCS instrument called Shaders.
